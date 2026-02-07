@@ -1,0 +1,28 @@
+# War Room Communication Templates
+
+## Initial Incident Notification
+Subject: [IT ALERT] System Impact – Under Investigation
+
+Message:
+An IT issue impacting <system> has been identified.
+The IT War Room is active and investigation is in progress.
+Next update in <time>.
+
+---
+
+## Clinical Leadership Update
+Subject: [UPDATE] IT Incident Status
+
+- Impacted System:
+- Clinical Areas Affected:
+- Workaround Available: Yes / No
+- Estimated Resolution Time:
+
+---
+
+## Incident Closure Message
+Subject: [RESOLVED] IT Incident Closed
+
+The reported issue affecting <system> has been resolved.
+Systems are stable and monitored.
+Thank you for your cooperation.
