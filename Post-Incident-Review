@@ -1,0 +1,27 @@
+# Post-Incident Review (PIR)
+
+## Purpose
+Convert incidents into organizational learning.
+
+---
+
+## Review Agenda
+1. Incident summary
+2. Timeline of events
+3. Root cause (technical + process)
+4. What worked well
+5. What can be improved
+6. Preventive actions
+
+---
+
+## Outputs
+- Updated SOPs
+- Infrastructure or configuration changes
+- Training or communication improvements
+- Vendor corrective actions
+
+---
+
+## Rule
+No blame. Only improvement.
