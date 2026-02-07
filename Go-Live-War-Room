@@ -1,0 +1,38 @@
+# Go-Live War Room Setup
+
+## Purpose
+To provide centralized command and control during hospital IT go-live
+events and high-risk operational periods.
+
+---
+
+## War Room Duration
+- T-3 days to T+7 days (typical)
+- 24×7 coverage for first 72 hours
+- Reduced coverage after stabilization
+
+---
+
+## Physical / Virtual Setup
+- Dedicated room or MS Teams bridge
+- Whiteboard or live tracker
+- Incident dashboard (manual or system-generated)
+
+---
+
+## Core Roles
+| Role | Responsibility |
+|----|----|
+| War Room Lead (IT Head) | Final decisions, escalation, coordination |
+| Application Lead | HIS / EMR / LIS / PACS ownership |
+| Infrastructure Lead | Network, servers, storage |
+| Vendor SPOC | Immediate technical support |
+| Clinical Liaison | Clinician communication |
+| Documentation Lead | Incident logging and updates |
+
+---
+
+## Key Rules
+- No parallel troubleshooting without War Room visibility
+- One issue → one owner
+- Clinical impact always prioritized over technical elegance
