@@ -1,0 +1,32 @@
+# Downtime Procedures (Clinical Systems)
+
+## Objective
+Ensure continuity of patient care during IT system unavailability.
+
+---
+
+## Downtime Triggers
+- EMR / HIS unavailable > 5 minutes
+- PACS / LIS inaccessible
+- Network outage in patient care areas
+
+---
+
+## Standard Downtime Actions
+- Switch to pre-approved paper forms
+- Manual patient registration if required
+- Manual order entry and result documentation
+- Timestamp all manual entries
+
+---
+
+## Recovery Process
+- IT confirms system stability
+- Clinical teams re-enter critical data
+- IT validates data integrity
+- Formal downtime closure communication
+
+---
+
+## Key Principle
+Downtime is a **clinical process**, not an IT failure.
